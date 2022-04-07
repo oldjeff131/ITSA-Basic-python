@@ -1,11 +1,16 @@
-time=[0,0,0,0]
-for x in range(4):
-    time[x]=int(input())
-total=int(time[2]*60+time[3])-(time[0]*60+time[1])
-hr=total/60
+starhr,starmin=map(int,input().split())
+endhr,endmin=map(int,input().split())
+if endhr<starhr:
+    total=int(endhr*60+endmin)-(starhr*60+(60-starmin)+720)
+else:
+    total=int(endhr*60+endmin)-(starhr*60+(60-starmin))
+hr=int(total/60)
+if total%60!=0:
+    hr=hr+1
+total=int(total/30)
 if hr<=2:
-    print(total/30)*20
-elif hr>2 & hr<=4:
-    print(total/30)*40
+    print(total*30)
+elif hr>2 and hr<=4:
+    print((4*30)+((total-4)*40))
 elif hr>4:
-    print(total/30)*60
+    print((4*30)+(4*40)+((total-8)*60))

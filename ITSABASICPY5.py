@@ -1,2 +1,3 @@
 num=int(input())
-print(bin(num))
+if num<0:
+    

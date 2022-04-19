@@ -26,7 +26,7 @@ for i in range(0,num,1):
                 N[o]=N[i]
                 N[i]=change
 for i in range(0,num):
-    if i<=num:
+    if i<num-1:
         print(N[i],end=' ')
     else:
         print(N[i])

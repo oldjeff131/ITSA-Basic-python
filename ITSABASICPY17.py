@@ -11,4 +11,4 @@ for i in range (0,len(en),1):
                 del en[x]
                 a=a-1
 for i in range(0,len(en)):
-    print(en[i],end=' ')
+    print(en[i],end='')

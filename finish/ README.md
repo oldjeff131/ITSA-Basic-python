@@ -1,31 +1,32 @@
 # ITSA python
 ---
-> 1. - [x] 矩陣數字顯示
->- [x]2 英哩轉公里
->- [x]3 判斷座標是否在圓形的範圍內
->- [x]4 停車費計算
->- [x]5 十進制轉二進制
->- [x]6 季節判定
->- [x]7 複數運算
->- [x]8 質數判別
->- [x]9 計算正整數被3整除之數值之總和
->- [x]10 輾轉相除法
->- [x]11 矩陣反轉
->- [x]12 遞迴程式練習
->- [x]13 撲克牌大小
->- [x]14 判斷是否為迴文
->- [x]15 文字及字母出現次數
->- [x]16 子字串出現次數
->- [x]17 英文斷詞
->- [x]18 QWERTY
->- [x]19 最少派車數
->- [x]20 大整數加法
->- [x]21 最大值與最小值
->- [x]22 圈圈叉叉
->- [x]23 找零錢問題
->- [x]24 計算複利
->- [x]25 字串之編碼數值總和
->- [x]27 猜數字
->- [x]28 統一發票對獎
->- [x]29 身分證驗證器
->- [x]30 星座查詢
+> 1. - [x] [矩陣數字顯示](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30746)
+> 2. - [x] [英哩轉公里](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30747)
+> 3. - [x] [判斷座標是否在圓形的範圍內](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30749)
+> 4. - [x] [停車費計算](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30748)
+> 5. - [x] [十進制轉二進制](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30750)
+> 6. - [x] [季節判定](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30754)
+> 7. - [x] [複數運算](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30755)
+> 8. - [x] [質數判別](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30752)
+> 9. - [x] [計算正整數被3整除之數值之總和](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30751)
+> 10. - [x] [輾轉相除法](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30757)
+> 11. - [x] [矩陣反轉](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30760)
+> 12. - [x] [遞迴程式練習](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30761)
+> 13. - [x] [撲克牌大小](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30764)
+> 14. - [x] [判斷是否為迴文](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30766)
+> 15. - [x] [文字及字母出現次數](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30767)
+> 16. - [x] [子字串出現次數](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30768)
+> 17. - [x] [英文斷詞](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30769)
+> 18. - [x] [QWERTY](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30771)
+> 19. - [x] [最少派車數](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30777)
+> 20. - [x] [大整數加法](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30783)
+> 21. - [x] [最大值與最小值](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30786)
+> 22. - [x] [圈圈叉叉](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30787)
+> 23. - [x] [找零錢問題](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30756)
+> 24. - [x] [計算複利](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30759)
+> 25. - [x] [字串之編碼數值總和](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30790)
+> 26. - [x] [各位數和排序](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30785)
+> 27. - [x] [猜數字](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30784)
+> 28. - [x] [統一發票對獎](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30778)
+> 29. - [x] [身分證驗證器](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30779)
+> 30. - [x] [星座查詢](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30780)

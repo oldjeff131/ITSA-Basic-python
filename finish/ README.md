@@ -21,7 +21,7 @@
 > 18. - [x] [QWERTY](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30771)
 > 19. - [x] [最少派車數](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30777)
 > 20. - [x] [大整數加法](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30783)
-> 21. - [ ] [最大值與最小值](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30786)
+> 21. - [x] [最大值與最小值](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30786)
 > 22. - [x] [圈圈叉叉](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30787)
 > 23. - [x] [找零錢問題](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30756)
 > 24. - [x] [計算複利](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30759)

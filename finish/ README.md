@@ -1,4 +1,5 @@
 # ITSA python
+* python版本:3.9.7
 ---
 > 1. - [x] [矩陣數字顯示](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30746)
 > 2. - [x] [英哩轉公里](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30747)
